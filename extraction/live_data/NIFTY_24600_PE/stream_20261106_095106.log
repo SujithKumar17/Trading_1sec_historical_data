@@ -1,0 +1,10 @@
+2026-11-06 09:51:06,995 | INFO | Generating Breeze session...
+2026-11-06 09:51:10,943 | INFO | Session generated successfully
+2026-11-06 09:51:10,943 | INFO | Connecting to Breeze WebSocket...
+2026-11-06 09:51:11,130 | INFO | WebSocket connected
+2026-11-06 09:51:11,130 | INFO | Subscribing to NIFTY 09-Nov-2026 24600 Put
+2026-11-06 09:51:11,131 | DEBUG | {'message': 'Stock NIFTY subscribed successfully'}
+2026-11-06 09:51:11,132 | INFO | Subscription response: {'message': 'Stock NIFTY subscribed successfully'}
+2026-11-06 09:51:11,134 | INFO | LIVE DATA COLLECTION STARTED
+2026-11-06 09:52:24,556 | INFO | Stopping stream...
+2026-11-06 09:52:24,557 | INFO | Collector stopped

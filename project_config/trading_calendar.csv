@@ -1,0 +1,3 @@
+trade_date
+# Optional. Populate official NSE trading dates as YYYY-MM-DD.
+# If empty/missing, validation mode uses weekdays and logs exchange holidays as NO_DATA.

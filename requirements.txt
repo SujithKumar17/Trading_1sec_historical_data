@@ -1,0 +1,4 @@
+breeze-connect
+python-dotenv
+pandas
+openpyxl
